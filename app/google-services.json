@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "760590733854",
+    "firebase_url": "https://bezen-c5914.firebaseio.com",
+    "project_id": "bezen-c5914",
+    "storage_bucket": "bezen-c5914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760590733854:android:cb56a7d056ba4167",
+        "android_client_info": {
+          "package_name": "alessandro.firebaseandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760590733854-qtqac893995b5j4ej1du7iidlsdp0jj8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "alessandro.firebaseandroid",
+            "certificate_hash": "7AC2A81753722C90577785F8B70AB2CED4234EAE"
+          }
+        },
+        {
+          "client_id": "760590733854-nt9qveiltjhruq6nejjs3sl0f5dnvnfv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASqT9cxyH_JW5wfD6_nhGDN_u_aRXOIMk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760590733854-nt9qveiltjhruq6nejjs3sl0f5dnvnfv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
